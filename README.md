@@ -105,6 +105,14 @@ The OTP Validator app is designed to provide a simple, secure, and intuitive OTP
 
 ---
 
+## Video Demonstration
+https://drive.google.com/file/d/1t6fmQ7Z8A5_SD35CKvhtieSdXTuW_bat/view?usp=sharing
+
+## ScreenShots
+<a href="https://ibb.co/Ws4bZJt"><img src="https://i.ibb.co/Ws4bZJt/Screenshot-20241028-163706.png" alt="Screenshot-20241028-163706" border="0"></a> 
+<a href="https://ibb.co/PrBqHty"><img src="https://i.ibb.co/PrBqHty/Screenshot-20241028-163726.png" alt="Screenshot-20241028-163726" border="0"></a>
+<a href="https://ibb.co/zHNRfWy"><img src="https://i.ibb.co/zHNRfWy/Screenshot-20241028-163738.png" alt="Screenshot-20241028-163738" border="0"></a>
+
 ## Technologies Used
 
 - **Frontend**: NextJs, React, Tailwind CSS, Vanilla CSS for animations.
