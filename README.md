@@ -106,7 +106,8 @@ The OTP Validator app is designed to provide a simple, secure, and intuitive OTP
 ---
 
 ## Video Demonstration
-https://drive.google.com/file/d/1t6fmQ7Z8A5_SD35CKvhtieSdXTuW_bat/view?usp=sharing
+[![Video](https://i.ibb.co/Ws4bZJt/Screenshot-20241028-163706.png)]([https://www.youtube.com/watch?v=video-id](https://www.canva.com/design/DAGU29G6chg/F6TX0c9858KL-g-sXY5DDg/watch?utm_content=DAGU29G6chg&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+
 
 ## ScreenShots
 <a href="https://ibb.co/Ws4bZJt"><img src="https://i.ibb.co/Ws4bZJt/Screenshot-20241028-163706.png" alt="Screenshot-20241028-163706" border="0"></a> 
